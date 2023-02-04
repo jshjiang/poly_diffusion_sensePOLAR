@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ipython notebook
+.ipynb_checkpoints/
+
+# generated images
+imgs/
+
+# 3rd party libraries
+lib/
